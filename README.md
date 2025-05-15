@@ -1,10 +1,3 @@
-<!--티스토리 로고-->
-<div align="right">
-  <a href="https://seesong-pyeon.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-09B3AF?style=flat&logo=tistory&logoColor=white" alt="Tistory"/>
-  </a>  
-</div>
-
 <!--헤더-->
 <h1>Juhong Lee</h1>
 
@@ -13,26 +6,35 @@
 <h4>
  <p align="center">
 
+ <!--자기소개-->
 
 </p>
 </h4>
 <br>
 
+<!--발자취-->
+![Image](https://github.com/user-attachments/assets/d5b41de4-e897-418c-a7fa-98364af886bd)
 
+<!--블로그, 이력서, 메일-->
+<!--티스토리 로고-->
+  <a href="https://seesong-pyeon.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-09B3AF?style=flat&logo=tistory&logoColor=white" alt="Tistory"/>
+  </a>  
 
-
+<!--프로젝트-->
 ## Project
-### 1. 엣취
+#### 1. 엣취
 
 
-### 2. Car License OCR
+#### 2. Car License OCR
 
+<!--논문-->
 ## Paper
-### 1. Breast Cancer
+#### 1. Breast Cancer
 
-### 2. 농기원 논문
+#### 2. 농기원 논문
 
-### 3. 종이빨대
+#### 3. 종이빨대
 
 
 
