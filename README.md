@@ -15,7 +15,7 @@
 
 
 <!--헤더-->
-<h1>About Juhong Lee</h1>
+<h1>About Me</h1>
 
 <!--자기소개-->
 <br>
