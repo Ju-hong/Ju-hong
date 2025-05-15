@@ -40,10 +40,13 @@
 
 
 
-
-
-### 2. **엣취**
-
+### 2. **엣취** 서비스 소개
+기간
+홍보영상
+발표자료
+프로젝트 링크
+내용 
+담당 업무
 
 **Tech Stacks** :
 ![Azure](https://img.shields.io/badge/Azure%20OpenAI-%23412991.svg?style=flat-square&logo=openai&logoColor=white)
