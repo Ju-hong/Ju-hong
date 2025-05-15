@@ -1,3 +1,19 @@
+<!--블로그, 이력서, 메일-->
+<div align="right">
+  <span><strong>portfolio</strong>:
+    <a href="https://seesong-pyeon.tistory.com/">
+      <img src="https://img.shields.io/badge/Notion-009EDB?style=flat&logo=notion&logoColor=white" alt="Notion"/>
+    </a>
+  </span>&nbsp;&nbsp;
+  <span><strong>blog</strong>:
+    <a href="https://seesong-pyeon.tistory.com/">
+      <img src="https://img.shields.io/badge/Tistory-6D4AFF?style=flat&logo=tistory&logoColor=white" alt="Tistory"/>
+    </a>
+  </span>&nbsp;&nbsp;
+  <span><strong>e-mail</strong>: luyenen@gmail.com</span>
+</div>
+
+
 <!--헤더-->
 <h1>Juhong Lee</h1>
 
@@ -13,13 +29,9 @@
 <br>
 
 <!--발자취-->
-![Image](https://github.com/user-attachments/assets/cea25a70-436a-408b-9f5b-e8997932dbf8)
+![Image](https://github.com/user-attachments/assets/a2bb1d19-ad69-4a6d-986e-79adc75ad9ac)
 
-<!--블로그, 이력서, 메일-->
-<!--티스토리 로고-->
-  <a href="https://seesong-pyeon.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-09B3AF?style=flat&logo=tistory&logoColor=white" alt="Tistory"/>
-  </a>  
+
 
 <!--프로젝트-->
 ## Project
