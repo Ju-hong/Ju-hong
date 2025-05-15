@@ -59,6 +59,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=badge-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=badge-square&logo=github&logoColor=white)
 
+<br>
 
 ### 3. **블랙박스 이미지 기반 자동차 번호판 인식 시스템**
 팀 잡았다 요놈🚨| 2025.02.13 - 2025.02.26
