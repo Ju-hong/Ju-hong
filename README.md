@@ -1,9 +1,39 @@
-https://img.shields.io/badge/Tistory-1F88C0?style=flat&logo=tistory&logoColor=white
+<!--티스토리 로고-->
+<div align="right">
+  <a href="https://seesong-pyeon.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-09B3AF?style=flat&logo=tistory&logoColor=white" alt="Tistory"/>
+  </a>  
+</div>
+
+<!--헤더-->
+<h1>Juhong Lee</h1>
 
 
-Juhong Lee
+<br>
+<h4>
+ <p align="center">
 
-luyenen@gmail.com 
+
+</p>
+</h4>
+<br>
+
+
+
+
+## Project
+### 1. 엣취
+
+
+### 2. Car License OCR
+
+## Paper
+### 1. Breast Cancer
+
+### 2. 농기원 논문
+
+### 3. 종이빨대
+
 
 
 
