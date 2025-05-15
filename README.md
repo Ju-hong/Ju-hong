@@ -22,8 +22,8 @@
 <br>
 <h4>
  <p align="center">
-  바이오 도메인과 개발을 넘나들며, 
-  유연하게 사고하는 개발자가 목표입니다.
+  ✨바이오 도메인과 개발을 넘나들며, 
+  유연하게 사고하는 개발자를 목표로 합니다.✨
 </p>
 </h5>
 <br>
@@ -40,13 +40,16 @@
 
 
 
-### 2. **엣취** 서비스 소개
-기간
+
+### 2. 엣취 (엣지있게 취업하기)
+2025.04.02 ~ 2025.04.18 
+내용 
+역할
 홍보영상
 발표자료
-프로젝트 링크
-내용 
-담당 업무
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hire-me-asap&repo=hire-me-app&theme=graywhite&show_owner=true)](https://github.com/hire-me-asap)
+
 
 **Tech Stacks** :
 ![Azure](https://img.shields.io/badge/Azure%20OpenAI-%23412991.svg?style=flat-square&logo=openai&logoColor=white)
@@ -60,7 +63,17 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 
-### 3. **도로 자동차 번호판 이미지 기반 인식 시스템**
+
+
+### 3. **블랙박스 이미지 기반 자동차 번호판 인식 시스템**
+2025.02.13 ~ 2025.02.26  
+내용 
+역할
+홍보영상
+발표자료
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kairosial&repo=License-Plate-Identification&theme=graywhite&show_owner=true)](https://github.com/kairosial/License-Plate-Identification)
 
 
 **Tech Stacks** :
