@@ -13,7 +13,7 @@
 <br>
 
 <!--발자취-->
-![Image](https://github.com/user-attachments/assets/d5b41de4-e897-418c-a7fa-98364af886bd)
+![Image](https://github.com/user-attachments/assets/cea25a70-436a-408b-9f5b-e8997932dbf8)
 
 <!--블로그, 이력서, 메일-->
 <!--티스토리 로고-->
