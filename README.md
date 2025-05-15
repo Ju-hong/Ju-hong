@@ -2,12 +2,12 @@
 <div align="right">
   <span><strong>portfolio</strong>:
     <a href="https://seesong-pyeon.tistory.com/">
-      <img src="https://img.shields.io/badge/Notion-009EDB?style=flat&logo=notion&logoColor=white" alt="Notion"/>
+      <img src="https://img.shields.io/badge/Notion-009EDB?style=badge&logo=notion&logoColor=white" alt="Notion"/>
     </a>
   </span>&nbsp;&nbsp;
   <span><strong>blog</strong>:
     <a href="https://seesong-pyeon.tistory.com/">
-      <img src="https://img.shields.io/badge/Tistory-6D4AFF?style=flat&logo=tistory&logoColor=white" alt="Tistory"/>
+      <img src="https://img.shields.io/badge/Tistory-6D4AFF?style=badge&logo=tistory&logoColor=white" alt="Tistory"/>
     </a>
   </span>&nbsp;&nbsp;
   <span><strong>e-mail</strong>: luyenen@gmail.com</span>
@@ -23,7 +23,7 @@
 <h4>
  <p align="center">
   ✨바이오 도메인과 개발을 넘나들며, 
-  유연하게 사고하는 개발자를 목표로 합니다.✨
+  유연하게 사고하는 개발자를 목표로 합니다✨
 </p>
 </h5>
 
@@ -36,53 +36,49 @@
 ## Project
 ### 1. **Memento Box**
 > Comming Soon
-
-
+<br>
 
 
 ### 2. 엣취 (엣지있게 취업하기)
-2025.04.02 ~ 2025.04.18 
-내용 
-역할
-홍보영상
-발표자료
+팀 HIRE ME ASAP 🤧| 2025.04.02 - 2025.04.18 
+> IT 분야 비기너 이력서 기반 맞춤 커리어 성장 및 구직 도우미
+- **역할:** 데이터 수집, 서비스 기획 및 프롬프트 엔지니어링, 백앤드 로직 개발
+- **발표자료:** [발표 PPT](https://drive.google.com/file/d/1rhg38bdqVMDPKgQkARrZmsm3lSQhQDhT/view?usp=sharing)
 
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hire-me-asap&repo=hire-me-app&theme=graywhite&show_owner=true)](https://github.com/hire-me-asap)
 
-
 **Tech Stacks** :
-![Azure](https://img.shields.io/badge/Azure%20OpenAI-%23412991.svg?style=flat-square&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat-square&logo=gunicorn&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF6F00?style=flat-square&logo=gradio&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure%20OpenAI-%23412991.svg?style=badge-square&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=badge-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=badge-square&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=badge-square&logo=fastapi&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=badge-square&logo=gunicorn&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=badge-square&logo=selenium&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF6F00?style=badge-square&logo=gradio&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=badge-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=badge-square&logo=github&logoColor=white)
 
-
-
+<br>
 
 ### 3. **블랙박스 이미지 기반 자동차 번호판 인식 시스템**
-2025.02.13 ~ 2025.02.26  
-내용 
-역할
-홍보영상
-발표자료
+팀 잡았다 요놈🚨| 2025.02.13 - 2025.02.26
+> 원활한 교통법규 위반 신고를 위한, 블랙박스 이미지 기반 주행 중 차량 번호판 인식 시스템
+- **역할:** OCR 모듈 개발 및 프로젝트 발표 등
+- **발표자료:** [발표 PPT](https://drive.google.com/file/d/1zM274BRcRhh-zJG3OGaCtO12Qb-p75h2/view?usp=sharing)  
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kairosial&repo=License-Plate-Identification&theme=graywhite&show_owner=true)](https://github.com/kairosial/License-Plate-Identification)
 
 
 **Tech Stacks** :
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-4051B5?style=flat-square&logo=yolo&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF6F00?style=flat-square&logo=gradio&logoColor=white)
-![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0053C6?style=flat-square&logo=paddlepaddle&logoColor=white)
-![Azure Machine Learning](https://img.shields.io/badge/Azure%20ML-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Azure Custom Vision](https://img.shields.io/badge/Azure%20Custom%20Vision-008AD7?style=flat-square&logo=microsoft-azure&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=badge-square&logo=python&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-4051B5?style=badge-square&logo=yolo&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF6F00?style=badge-square&logo=gradio&logoColor=white)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0053C6?style=badge-square&logo=paddlepaddle&logoColor=white)
+![Azure Machine Learning](https://img.shields.io/badge/Azure%20ML-0078D4?style=badge-square&logo=microsoft-azure&logoColor=white)
+![Azure Custom Vision](https://img.shields.io/badge/Azure%20Custom%20Vision-008AD7?style=badge-square&logo=microsoft-azure&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=badge-square&logo=opencv&logoColor=white)
 
 
 
