@@ -29,9 +29,9 @@
 <br>
 
 <!--발자취-->
-![Image](https://github.com/user-attachments/assets/a2bb1d19-ad69-4a6d-986e-79adc75ad9ac)
-
-
+<div align="center">
+<img src="https://github.com/user-attachments/assets/a2bb1d19-ad69-4a6d-986e-79adc75ad9ac" width="75%" />
+</div>
 
 <!--프로젝트-->
 ## Project
