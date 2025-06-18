@@ -34,15 +34,37 @@
 
 <!--프로젝트-->
 # Project
-### 1. **Memento Box**
-> Comming Soon
+### 1. **Memento Box** (수정중🚧)
+*Team*  화무십일홍🌹 | 2025.05.08 - 2025.06.13
+> 치매 추적을 위한 챗봇 대화 사진첩
+- **역할:** Backend engineer
+- **발표자료:** 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=""&repo=""&theme=graywhite&show_owner=true)](https://github.com/"")
+
+**Tech Stacks** :
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=badge-squar&logo=microsoftazure&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=badge-square&logo=nginx&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=badge-square&logo=gunicorn&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=badge-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=badge-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=badge-square&logo=fastapi&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=badge-square&logo=postgresql&logoColor=white)
+![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=badge-square&logo=kakaotalk&logoColor=000000)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=fbadge-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=badge-square&logo=Flutter&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=badge-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=badge-square&logo=github&logoColor=white)
+
+
+
 <br>
 
 
 ### 2. 엣취 (엣지있게 취업하기)
-팀 HIRE ME ASAP 🤧| 2025.04.02 - 2025.04.18 
+*Team*  HIRE ME ASAP 🤧| 2025.04.02 - 2025.04.18 
 > IT 분야 비기너 이력서 기반 맞춤 커리어 성장 및 구직 도우미
-- **역할:** 데이터 수집, 서비스 기획 및 프롬프트 엔지니어링, 백앤드 로직 개발
+- **역할:** 프로젝트 기획
 - **발표자료:** [발표 PPT](https://drive.google.com/file/d/1rhg38bdqVMDPKgQkARrZmsm3lSQhQDhT/view?usp=sharing)
 
   
@@ -62,9 +84,9 @@
 <br>
 
 ### 3. **블랙박스 이미지 기반 자동차 번호판 인식 시스템**
-팀 잡았다 요놈🚨| 2025.02.13 - 2025.02.26
+*Team*  잡았다 요놈🚨| 2025.02.13 - 2025.02.26
 > 원활한 교통법규 위반 신고를 위한, 블랙박스 이미지 기반 주행 중 차량 번호판 인식 시스템
-- **역할:** OCR 모듈 개발 및 프로젝트 발표 등
+- **역할:** Softwa¤e Enginee£
 - **발표자료:** [발표 PPT](https://drive.google.com/file/d/1zM274BRcRhh-zJG3OGaCtO12Qb-p75h2/view?usp=sharing)  
 
 
