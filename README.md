@@ -42,7 +42,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=""&repo=""&theme=graywhite&show_owner=true)](https://github.com/"")
 
-**Tech Stacks** :
+**Tech Stacks** : 
+<br>
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=badge-squar&logo=microsoftazure&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=badge-square&logo=nginx&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=badge-square&logo=gunicorn&logoColor=white)
@@ -71,6 +72,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hire-me-asap&repo=hire-me-app&theme=graywhite&show_owner=true)](https://github.com/hire-me-asap)
 
 **Tech Stacks** :
+<br>
 ![Azure](https://img.shields.io/badge/Azure%20OpenAI-%23412991.svg?style=badge-square&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=badge-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=badge-square&logo=mysql&logoColor=white)
@@ -94,6 +96,7 @@
 
 
 **Tech Stacks** :
+<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=badge-square&logo=python&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-4051B5?style=badge-square&logo=yolo&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF6F00?style=badge-square&logo=gradio&logoColor=white)
