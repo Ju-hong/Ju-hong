@@ -107,8 +107,10 @@
 
 <!--논문-->
 # Paper Work
-1. **[석사 졸업논문]** Topoisomerase Inhibitor Resistance in Breast Cancer: Mechanistic Insights into Cellular Adaptations and Metabolic Alterations Driving Drug Insensitivity
+1. **[석사 졸업논문]** Topoisomerase Inhibitor Resistance in Breast Cancer: Mechanistic Insights into Cellular Adaptations and Metabolic Alterations Driving Drug Insensitivity (2024)
 
-2. 박혜진, 엄현주, **이주홍**, 권누리, 강혜정, 김주형 and 박진주. (2022). **국내에서 상용되는 농산물의 카로티노이드 함량 분석**. 한국식품영양학회지, 35(5), 389-397.
+2. **[학술 논문]** 박혜진, 엄현주, **이주홍**, 권누리, 강혜정, 김주형 and 박진주. (2022). **국내에서 상용되는 농산물의 카로티노이드 함량 분석**. 한국식품영양학회지, 35(5), 389-397.
 
-3. **[학부 캡스톤]** 카페산업 일회용품 대체소재에 관한 연구: 빨대를 중심으로 
+3. **[학부 캡스톤 1st]** 학부 캡스톤 고품질 증편제조를 위한 3종 유산균 종균의 특성 분석 및 시제품 제작 (2021)
+
+4. **[학부 캡스톤 2nd]** 카페산업 일회용품 대체소재에 관한 연구: 빨대를 중심으로 (2019)
