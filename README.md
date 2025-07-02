@@ -88,7 +88,7 @@
 ### 3. **블랙박스 이미지 기반 자동차 번호판 인식 시스템**
 *Team*  잡았다 요놈🚨| 2025.02.13 - 2025.02.26
 > 원활한 교통법규 위반 신고를 위한, 블랙박스 이미지 기반 주행 중 차량 번호판 인식 시스템
-- **역할:** Softwa¤e Enginee£
+- **역할:** Software Engineer
 - **발표자료:** [발표 PPT](https://drive.google.com/file/d/1zM274BRcRhh-zJG3OGaCtO12Qb-p75h2/view?usp=sharing)  
 
 
