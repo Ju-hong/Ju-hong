@@ -38,7 +38,7 @@
 *Team*  화무십일홍🌹 | 2025.05.08 - 2025.06.13
 > 치매 추적을 위한 챗봇 대화 사진첩
 - **역할:** Backend engineer
-- **발표자료:** 
+- **발표자료:** [발표 PPT](https://drive.google.com/file/d/1YxKgMt42UdpUJei8Dgr79cIu2pUof7Jd/view?usp=drive_link)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=""&repo=""&theme=graywhite&show_owner=true)](https://github.com/"")
 
