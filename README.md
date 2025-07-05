@@ -39,6 +39,7 @@
 > 치매 추적을 위한 챗봇 대화 사진첩
 - **역할:** Backend engineer
 - **발표자료:** [발표 PPT](https://drive.google.com/file/d/1YxKgMt42UdpUJei8Dgr79cIu2pUof7Jd/view?usp=drive_link)
+- **시연영상:** [영상 링크](https://drive.google.com/file/d/1YMQgB-sQNPdrE14EWwOkhA5eBlOmJo9-/view?usp=drive_link)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=""&repo=""&theme=graywhite&show_owner=true)](https://github.com/"")
 
@@ -67,7 +68,7 @@
 > IT 분야 비기너 이력서 기반 맞춤 커리어 성장 및 구직 도우미
 - **역할:** 프로젝트 기획
 - **발표자료:** [발표 PPT](https://drive.google.com/file/d/1rhg38bdqVMDPKgQkARrZmsm3lSQhQDhT/view?usp=sharing)
-- **시연영상:** [시연 영상](https://www.canva.com/design/DAGsGhnUZMU/js-Ikp8ME6LkEsADEm5XEQ/watch?utm_content=DAGsGhnUZMU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3f760c4930)
+- **시연영상:** [영상 링크](https://www.canva.com/design/DAGsGhnUZMU/js-Ikp8ME6LkEsADEm5XEQ/watch?utm_content=DAGsGhnUZMU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3f760c4930)
 
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hire-me-asap&repo=hire-me-app&theme=graywhite&show_owner=true)](https://github.com/hire-me-asap)
