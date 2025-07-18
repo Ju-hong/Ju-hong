@@ -41,7 +41,7 @@
 - **발표자료:** [발표 PPT](https://drive.google.com/file/d/1YxKgMt42UdpUJei8Dgr79cIu2pUof7Jd/view?usp=drive_link)
 - **시연영상:** [영상 링크](https://drive.google.com/file/d/1YMQgB-sQNPdrE14EWwOkhA5eBlOmJo9-/view?usp=drive_link)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=""&repo=""&theme=graywhite&show_owner=true)](https://github.com/"")
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=team-memento-box&repo=Memento-Box&theme=graywhite&show_owner=true)](https://github.com/team-memento-box/Memento-Box)
 
 **Tech Stacks** : 
 <br>
