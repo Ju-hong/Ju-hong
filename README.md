@@ -67,7 +67,7 @@
 *Team*  HIRE ME ASAP 🤧| 2025.04.02 - 2025.04.18 
 > IT 분야 비기너 이력서 기반 맞춤 커리어 성장 및 구직 도우미
 - **역할:** 프로젝트 기획
-- **발표자료:** [발표 PPT](https://drive.google.com/file/d/1rhg38bdqVMDPKgQkARrZmsm3lSQhQDhT/view?usp=sharing)
+- **발표자료:** [발표 PPT](https://drive.google.com/file/d/1cBCbB7CkPrjEzNj79L8xJFnlR6Mmrh9K/view?usp=drive_link)
 - **시연영상:** [영상 링크](https://www.canva.com/design/DAGsGhnUZMU/js-Ikp8ME6LkEsADEm5XEQ/watch?utm_content=DAGsGhnUZMU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3f760c4930)
 
   
