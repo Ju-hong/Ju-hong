@@ -71,7 +71,8 @@
 - **시연영상:** [영상 링크](https://www.canva.com/design/DAGsGhnUZMU/js-Ikp8ME6LkEsADEm5XEQ/watch?utm_content=DAGsGhnUZMU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3f760c4930)
 
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hire-me-asap&repo=hire-me-app&theme=graywhite&show_owner=true)](https://github.com/hire-me-asap)
+[![Readme Card](https://github.com/Ju-hong/Memento-Box&repo=Memento-Box&theme=graywhite&show_owner=true)](https://github.com/Ju-hong/Memento-Box)
+
 
 **Tech Stacks** :
 <br>
