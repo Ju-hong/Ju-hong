@@ -41,7 +41,7 @@
 - **발표자료:** [발표 PPT](https://drive.google.com/file/d/1YxKgMt42UdpUJei8Dgr79cIu2pUof7Jd/view?usp=drive_link)
 - **시연영상:** [영상 링크](https://drive.google.com/file/d/1YMQgB-sQNPdrE14EWwOkhA5eBlOmJo9-/view?usp=drive_link)
 
-[![Readme Card](https://github.com/Ju-hong/Memento-Box&repo=Memento-Box&theme=graywhite&show_owner=true)](https://github.com/team-memento-box/Memento-Box)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ju-hong&repo=Memento-Box&theme=graywhite&show_owner=true)](https://github.com/Ju-hong/Memento-Box)
 
 **Tech Stacks** : 
 <br>
@@ -71,8 +71,7 @@
 - **시연영상:** [영상 링크](https://www.canva.com/design/DAGsGhnUZMU/js-Ikp8ME6LkEsADEm5XEQ/watch?utm_content=DAGsGhnUZMU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3f760c4930)
 
   
-[![Readme Card](https://github.com/Ju-hong/Memento-Box&repo=Memento-Box&theme=graywhite&show_owner=true)](https://github.com/Ju-hong/Memento-Box)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hire-me-asap&repo=hire-me-app&theme=graywhite&show_owner=true)](https://github.com/hire-me-asap)
 
 **Tech Stacks** :
 <br>
